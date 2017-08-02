@@ -1,2 +1,0 @@
-# http_json_project
-基于python实现的http+json协议接口自动化测试框架源码
